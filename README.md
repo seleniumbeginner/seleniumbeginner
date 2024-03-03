@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **API testing, Jmeter,**
 
-- 👯 I’m looking to collaborate on **greencart**
+- 👯 I’m looking to collaborate on **Greencart**
 
-- 💬 Ask me about **SQL,manualTesting,Testing fundamentals,Automation testing**
+- 💬 Ask me about **SQL, manual testing, Testing fundamentals, Automation testing**
 
 - 📫 How to reach me **mailgodar@gmail.com**
 
