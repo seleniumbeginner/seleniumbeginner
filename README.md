@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Basanta Godar</h1>
+<h1 align="center">Hi 👋, I'm B G</h1>
 <h3 align="center">Test Analyst Intern</h3>
 
 - 🔭 I’m currently working on [SeleniumLearning](https://www.rahulshettyacademy.com/loginpagePractise/)
