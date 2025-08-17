@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm B G</h1>
-<h3 align="center">Data /Test  Analyst Intern</h3>
+<h3 align="center">Test Data Analyst </h3>
 
 - 🔭 I’m currently working on [SeleniumLearning](https://www.rahulshettyacademy.com/loginpagePractise/)
 
-- 🌱 I’m currently learning **Excel,Power BI , Python , SQL**
+- 🌱 I’m currently learning **Excel,Power BI , Python, SQL**
 
 - 👯 I’m looking to collaborate on **Greencart**
 
